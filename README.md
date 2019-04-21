@@ -74,7 +74,7 @@ python3 -c "import nltk; nltk.download('all')"
 ## HowToUse
 Open the repository  and Run this Command in terminal
 ```
-python3 main.py db.txt
+python3 main.py input.txt
 ```
 ## Example
 * Input
